@@ -177,3 +177,11 @@ Built with the help of Artificial Intelligence and fully understood and implemen
 * Try Decision Tree or Random Forest models
 * Add more features like GPA or class attendance
 * Build a Flask web app where users can input habits and get predictions
+
+* ### 📉 Model Visualization
+
+The plot below shows how closely the predicted scores match the actual exam scores.  
+The red dashed line represents perfect predictions (Predicted = Actual):
+
+![Actual vs Predicted Exam Scores](exam_score_prediction_plot.png)
+
